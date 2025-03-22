@@ -50,10 +50,10 @@
 
 
 ### 📦 Projects
-- [Friendcezinha - LI4-Project](https://github.com/sailoring-rgb/projetoLI4)
-- [Enterprize Resource Planning - ERP-Project](https://github.com/J10Maia/Enterprise-Resource-Planning)
-- [Task Orchestrator - SO-Project](https://github.com/Tiago5Carneiro/Project-SO)
-- [Pascal Compiler - PL-Project](https://github.com/Tiago5Carneiro/PL-Project)
+- [Friendcezinha - Francezinha in Braga (Computer Labs IV)](https://github.com/sailoring-rgb/projetoLI4)
+- [Enterprize Resource Planning (ERP)](https://github.com/J10Maia/Enterprise-Resource-Planning)
+- [Task Orchestrator (Operating Systems)](https://github.com/Tiago5Carneiro/Project-SO)
+- [Pascal Compiler (Language Processing)](https://github.com/Tiago5Carneiro/PL-Project)
 
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tiago-carneiro-886538249/) or [Email](mailto:tiagocarneiro0508@gmail.com).
