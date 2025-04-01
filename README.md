@@ -45,7 +45,7 @@
 - [F1Hub 🏎️ - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
     - 🛠️ Tech Stack: Next.js/Tailwindcss, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B 
     - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
-- [Friendcezinha 🍽️ : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
+- [Friendcesinha 🍽️ : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
     - 🛠️ Tech Stack: Java, Javascrypt, MySQL, BootStrap
     - 🔍 Description: A platform providing Francesinha restaurants in Braga, using structured data and UML for efficient information management and accessibility.
 - [Enterprize Resource Planning 🏢 - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
