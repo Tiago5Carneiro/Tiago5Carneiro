@@ -8,7 +8,7 @@
   <a href="mailto:tiagocarneiro0508@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
-### 🎓 Software Engineering Student | Passionate About Programming | Continuous Learner
+### 🎓 Software Engineering Student | Experienced in IT & Customer Service | Detail-Oriented & Motivated
 
 ### 💻 **Skills**
 
