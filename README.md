@@ -19,8 +19,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -32,27 +32,26 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gemini](https://camo.githubusercontent.com/84eae5b3079bc3f55098d9ae8ae05971abc1fc882dba5854dbff7e7e380ca5f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c6525323067656d696e692d3845373542323f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c6525323067656d696e69266c6f676f436f6c6f723d7768697465)
+![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 
 ### 📦 Projects
-- [F1Hub - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
+- [F1Hub 🏎️ - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
     - 🛠️ Tech Stack: Next.js/Tailwindcss, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B 
     - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
-
-- [Friendcezinha : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
+- [Friendcezinha 🍽️ : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
     - 🛠️ Tech Stack: Java, Javascrypt, MySQL, BootStrap
     - 🔍 Description: A platform providing Francesinha restaurants in Braga, using structured data and UML for efficient information management and accessibility.
-- [Enterprize Resource Planning - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
+- [Enterprize Resource Planning 🏢 - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
     - 🛠️ Tech Stack: Python, JavaScript, SQL
     - 🔍 Description: A comprehensive Enterprise Resource Planning system designed to streamline business processes. This project includes modules for inventory management, sales tracking, and more.
-- [Pascal Compiler - Language Processing](https://github.com/Tiago5Carneiro/PL-Project)
+- [Pascal Compiler 🖥️- Language Processing](https://github.com/Tiago5Carneiro/PL-Project)
     - 🛠️ Tech Stack: Python
     - 🔍 Description: A Pascal compiler built with Python, utilizing PLY (Lex & Yacc) for lexical analysis, parsing, and syntax processing.
 
