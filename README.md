@@ -38,9 +38,9 @@
 
 
 ### 📦 Projects
+- [F1Hub - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
 - [Friendcezinha : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
 - [Enterprize Resource Planning - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
-- [Task Orchestrator - Operating Systems](https://github.com/Tiago5Carneiro/Project-SO)
 - [Pascal Compiler - Language Processing](https://github.com/Tiago5Carneiro/PL-Project)
 
 ### 📫 Contact Me
