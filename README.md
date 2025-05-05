@@ -41,18 +41,18 @@
 
 
 ### 📦 Projects
+- [BiteFinder 🍽️](https://github.com/Tiago5Carneiro/bitefinder)
+    - 🛠️ Tech Stack: React Native, Expo, Python, Gemini, Mistral, OpenAI API, Google Places API, SingleStore DB
+    - 🔍 Description: Tinder-style app that helps you and your friends decide where to eat, using AI to provide personalized restaurant recommendations based on both individual and group preferences.
 - [F1Hub 🏎️ - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
     - 🛠️ Tech Stack: Next.js/Tailwindcss, Python, MySQL, SingleStore DB, Gemini-2.0 Fast, Llama-3.1.8B 
     - 🔍 Description: F1Hub is a central platform for Formula 1 fans, providing news, AI powered driver statistics and driver comparisons.
-- [Friendcesinha 🍽️ : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
+- [Friendcesinha 📍 : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
     - 🛠️ Tech Stack: Java, Javascrypt, MySQL, BootStrap
     - 🔍 Description: A platform providing Francesinha restaurants in Braga, using structured data and UML for efficient information management and accessibility.
 - [Enterprize Resource Planning 🏢 - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
     - 🛠️ Tech Stack: Python, JavaScript, SQL
     - 🔍 Description: A comprehensive Enterprise Resource Planning system designed to streamline business processes. This project includes modules for inventory management, sales tracking, and more.
-- [Pascal Compiler 🖥️- Language Processing](https://github.com/Tiago5Carneiro/PL-Project)
-    - 🛠️ Tech Stack: Python
-    - 🔍 Description: A Pascal compiler built with Python, utilizing PLY (Lex & Yacc) for lexical analysis, parsing, and syntax processing.
 
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tiago-carneiro-886538249/) or [Email](mailto:tiagocarneiro0508@gmail.com).
