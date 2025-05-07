@@ -57,7 +57,7 @@
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tiago-carneiro-886538249/) or [Email](mailto:tiagocarneiro0508@gmail.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago5Carneiro&layout=compact&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago5Carneiro&layout=compact&show_icons=true&theme=github_dark&hide=typescript,javascript)
 ![Tiago Carneiro](https://github-readme-stats.vercel.app/api?username=Tiago5Carneiro&show_icons=true&theme=github_dark)
 <!--
 **Tiago5Carneiro/Tiago5Carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
