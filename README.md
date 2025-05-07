@@ -41,7 +41,7 @@
 
 
 ### 📦 Projects
-- [BiteFinder 🍽️](https://github.com/Tiago5Carneiro/bitefinder)
+- [BiteFinder 🍽️ - ShiftAppens 2025](https://github.com/Tiago5Carneiro/bitefinder)
     - 🛠️ Tech Stack: React Native, Expo, Python, Gemini, Mistral, OpenAI API, Google Places API, SingleStore DB
     - 🔍 Description: Tinder-style app that helps you and your friends decide where to eat, using AI to provide personalized restaurant recommendations based on both individual and group preferences.
 - [F1Hub 🏎️ - BugsByte 2025](https://github.com/Tiago5Carneiro/hackaton25)
