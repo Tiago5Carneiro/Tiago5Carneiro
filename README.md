@@ -50,7 +50,7 @@
 - [Friendcesinha 📍 : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
     - 🛠️ Tech Stack: Java, Javascrypt, MySQL, BootStrap
     - 🔍 Description: A platform providing Francesinha restaurants in Braga, using structured data and UML for efficient information management and accessibility.
-- [CG-Project 🌌 – Computer Graphics](https://github.com/J10Maia/CG-Project)
+- [CG-Project 🌌 – Computer Graphics](https://github.com/Tiago5Carneiro/CG-Project)
     - 🛠️ Tech Stack: C++, OpenGL, GLSL, GLUT
     - 🔍 Description: A real-time 3D graphics engine featuring dynamic rendering of geometric primitives, dual camera modes (First Person and Orbital), textured lighting, and View Frustum Culling with bounding boxes.
 ### 📫 Contact Me
