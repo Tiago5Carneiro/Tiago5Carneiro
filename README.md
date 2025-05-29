@@ -50,10 +50,9 @@
 - [Friendcesinha 📍 : Francezinha in Braga - Computer Labs IV](https://github.com/sailoring-rgb/projetoLI4)
     - 🛠️ Tech Stack: Java, Javascrypt, MySQL, BootStrap
     - 🔍 Description: A platform providing Francesinha restaurants in Braga, using structured data and UML for efficient information management and accessibility.
-- [Enterprize Resource Planning 🏢 - ERP](https://github.com/J10Maia/Enterprise-Resource-Planning)
-    - 🛠️ Tech Stack: Python, JavaScript, SQL
-    - 🔍 Description: A comprehensive Enterprise Resource Planning system designed to streamline business processes. This project includes modules for inventory management, sales tracking, and more.
-
+- [CG-Project 🌌 – Computer Graphics](https://github.com/J10Maia/CG-Project)
+    - 🛠️ Tech Stack: C++, OpenGL, GLSL, GLUT
+    - 🔍 Description: A real-time 3D graphics engine featuring dynamic rendering of geometric primitives, dual camera modes (First Person and Orbital), textured lighting, and View Frustum Culling with bounding boxes.
 ### 📫 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tiago-carneiro-886538249/) or [Email](mailto:tiagocarneiro0508@gmail.com).
 
