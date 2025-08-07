@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Tiago Carneiro 👋</b></h1>
 <p align="center">
-  <em>Software Engineering student at the University of Minho!</em>
+  <em>Summer Intern at Continental Mabor!</em>
 </p>
 
 <p align="center">
