@@ -31,7 +31,6 @@
 ![Gemini](https://camo.githubusercontent.com/84eae5b3079bc3f55098d9ae8ae05971abc1fc882dba5854dbff7e7e380ca5f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c6525323067656d696e692d3845373542323f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c6525323067656d696e69266c6f676f436f6c6f723d7768697465)
 ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
