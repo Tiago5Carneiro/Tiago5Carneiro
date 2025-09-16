@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Tiago Carneiro 👋</b></h1>
 <p align="center">
-  <em>Summer Intern at Continental Mabor!</em>
+  <em>GenAI Software Freelancer!</em>
 </p>
 
 <p align="center">
